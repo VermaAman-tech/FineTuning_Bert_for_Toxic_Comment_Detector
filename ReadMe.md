@@ -8,4 +8,5 @@ Which I downloaded from kaggle from this competition
 https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
 Where I downloaded the dataset available and used the train.csv 
 
+<img width="960" alt="image" src="https://github.com/VermaAman-tech/FineTuning_Bert_for_Toxic_Comment_Detector/assets/122050072/5487d256-9094-436d-aa6c-5ae624057ee8">
 
